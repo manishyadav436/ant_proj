@@ -26,12 +26,12 @@
 		</tr>
 		<tr>
 			<td>Country :</td>
-			<td><form:select path="city">
+			<td><form:select path="Country"
 				<form:option value="0" label="Select" />
-				<form:option value="1" label="blore" />
-				<form:option value="2" label="HYB" />
-				<form:option value="3" label="bbsr" />
-				<form:option value="4" label="ctc" />
+				<form:option value="1" label="IND" />
+				<form:option value="2" label="USA" />
+				<form:option value="3" label="UK" />
+				<form:option value="4" label="UAE" />
 			</form:select></td>
 		</tr>
 		<tr>
